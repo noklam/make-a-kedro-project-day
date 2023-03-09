@@ -1,5 +1,11 @@
 # KedrUFO
 
+## Reference
+Data:
+https://www.kaggle.com/datasets/NUFORC/ufo-sightings
+
+Visualization Code:
+https://www.kaggle.com/code/cemutku/ufo-report-analysis-mapplots
 ## Overview
 
 This is your new Kedro project, which was generated using `Kedro 0.18.3`.
